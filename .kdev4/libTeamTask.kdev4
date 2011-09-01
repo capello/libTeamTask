@@ -1,0 +1,19 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00\x16\x00l\x00i\x00b\x00T\x00e\x00a\x00m\x00T\x00a\x00s\x00k)
+
+[CMake]
+BuildDirs=/home/capello/Projets/C++/TeamTask/libTeamTask/build
+CMakeDir=/usr/share/cmake/Modules
+Current CMake Binary=file:///usr/bin/cmake
+CurrentBuildDir=file:///home/capello/Projets/C++/TeamTask/libTeamTask/build
+CurrentBuildType=Debug
+CurrentInstallDir=
+Extra Arguments=
+ProjectRootRelative=./
+
+[MakeBuilder]
+Default Make Environment Profile=0
+Number Of Jobs=4
+
+[Project]
+VersionControlSupport=kdevgit
